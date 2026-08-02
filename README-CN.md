@@ -123,13 +123,13 @@ Usage:
   hack-browser-data [command]
 
 Available Commands:
-  archive     Pack decryption-relevant profile files into a zip for cross-host restore
-  dump        Extract and decrypt browser data (default command)
-  dumpkeys    Export Chromium master keys as JSON for cross-host decryption
-  help        Help about any command
-  list        List detected browsers and profiles
-  restore     Decrypt copied profile data using exported master keys
-  version     Print version information
+  archive     将解密相关的配置文件打包成 zip 文件，以便跨主机恢复
+  dump        提取并解密浏览器数据（默认命令）
+  dumpkeys    将 Chromium 主密钥导出为 JSON，以便跨主机解密
+  help        关于任意命令的帮助
+  list        列出检测到的浏览器和配置文件
+  restore     使用导出的主密钥解密已复制的配置文件数据
+  version     打印版本信息
 
 Flags:
   -b, --browser string        target browser: all|chrome|firefox|edge|... (default "all")

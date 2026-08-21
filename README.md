@@ -344,6 +344,13 @@ Please see the [Contribution Guide](CONTRIBUTING.md) before contributing.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/drogers0">
+                    <img src="https://avatars.githubusercontent.com/u/120214987?v=4" width="100;" alt="drogers0"/>
+                    <br />
+                    <sub><b>David Rogers</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ac0d3r">
                     <img src="https://avatars.githubusercontent.com/u/26270009?v=4" width="100;" alt="ac0d3r"/>
                     <br />
@@ -358,12 +365,21 @@ Please see the [Contribution Guide](CONTRIBUTING.md) before contributing.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mybonesaremorepowerful92">
+                    <img src="https://avatars.githubusercontent.com/u/308560070?v=4" width="100;" alt="mybonesaremorepowerful92"/>
+                    <br />
+                    <sub><b>mybonesaremorepowerful92</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/mirefly">
                     <img src="https://avatars.githubusercontent.com/u/4984681?v=4" width="100;" alt="mirefly"/>
                     <br />
                     <sub><b>mirefly</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/lc6464">
                     <img src="https://avatars.githubusercontent.com/u/64722907?v=4" width="100;" alt="lc6464"/>
@@ -378,13 +394,18 @@ Please see the [Contribution Guide](CONTRIBUTING.md) before contributing.
                     <sub><b>zhe6652</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/testwill">
                     <img src="https://avatars.githubusercontent.com/u/8717479?v=4" width="100;" alt="testwill"/>
                     <br />
                     <sub><b>guoguangwu</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/freddy77">
+                    <img src="https://avatars.githubusercontent.com/u/1009640?v=4" width="100;" alt="freddy77"/>
+                    <br />
+                    <sub><b>freddy77</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -401,6 +422,8 @@ Please see the [Contribution Guide](CONTRIBUTING.md) before contributing.
                     <sub><b>Santiago Ramirez</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/dexhek">
                     <img src="https://avatars.githubusercontent.com/u/39654918?v=4" width="100;" alt="dexhek"/>
